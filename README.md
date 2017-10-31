@@ -338,6 +338,11 @@ $ (cd to bundle root)
 $ node main.js
 
 ```
+## To Do
+Add support for return 418 - "I_AM_A_TEAPOT"
+Severity - Critical
+
+```
 ## Directory Structure
 The application will have the following directory structure:
 
